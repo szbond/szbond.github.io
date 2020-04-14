@@ -9209,3 +9209,41 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+.entery
+{
+  position : relative;
+  left: 0;
+  
+}
+#toc
+{
+  
+  font-size: 0.8em;
+  
+  margin :5px;
+
+
+  
+  
+
+}
+#toc .toc
+{
+  background-color:#f8f8f8; 
+  border-radius: 10px;
+  list-style:none; 
+  color:#999;
+  padding:10px; 
+}
+#toc .toc-item,.toc-link
+{
+  list-style :none;
+}
+#toc ol
+{
+    margin 0
+}
+#toc .toc-title
+{
+  display: none;
+}
